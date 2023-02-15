@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\WindowsFormsUnos\bin\Debug\WindowsFormsUnos.exe.config
+C:\Users\ucenik\source\repos\WindowsFormsUnos\bin\Debug\WindowsFormsUnos.exe
+C:\Users\ucenik\source\repos\WindowsFormsUnos\bin\Debug\WindowsFormsUnos.pdb
+C:\Users\ucenik\source\repos\WindowsFormsUnos\obj\Debug\WindowsFormsUnos.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\WindowsFormsUnos\obj\Debug\WindowsFormsUnos.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\WindowsFormsUnos\obj\Debug\WindowsFormsUnos.Form1.resources
+C:\Users\ucenik\source\repos\WindowsFormsUnos\obj\Debug\WindowsFormsUnos.Properties.Resources.resources
+C:\Users\ucenik\source\repos\WindowsFormsUnos\obj\Debug\WindowsFormsUnos.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\WindowsFormsUnos\obj\Debug\WindowsFormsUnos.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\WindowsFormsUnos\obj\Debug\WindowsFormsUnos.exe
+C:\Users\ucenik\source\repos\WindowsFormsUnos\obj\Debug\WindowsFormsUnos.pdb
